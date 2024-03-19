@@ -140,6 +140,7 @@ Best of luck in your final project! Fyyur depends on you!
 ```
 git clone https://github.com/udacity/FSND.git
 cd FSND/projects/01_fyyur/starter_code 
+
 ```
 
 2. **Create an empty repository in your Github account online. To change the remote repository path in your local repository, use the commands below:**
